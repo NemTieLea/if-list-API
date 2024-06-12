@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Madame",
+        "first": "Kerstin",
+        "last": "Barbier"
+      },
+      "location": {
+        "street": {
+          "number": 2124,
+          "name": "Rue Bony"
+        },
+        "city": "Zweisimmen",
+        "state": "Appenzell Innerrhoden",
+        "country": "Switzerland",
+        "postcode": 6567,
+        "coordinates": {
+          "latitude": "-59.3380",
+          "longitude": "91.2881"
+        },
+        "timezone": {
+          "offset": "+9:30",
+          "description": "Adelaide, Darwin"
+        }
+      },
+      "email": "kerstin.barbier@example.com",
+      "login": {
+        "uuid": "805e36f1-7f43-4c68-9af7-520f0a9dad6c",
+        "username": "heavyfrog259",
+        "password": "zhang",
+        "salt": "0plXzIvM",
+        "md5": "8cc49e3a31eb1a1319a521db6dd57ca1",
+        "sha1": "4c9ac9359a474227f956c4ad85f24a599de7d33a",
+        "sha256": "3ef9dfd52ddfcefd5721952bb198c65dc26f092b713298d8d03e0e090e22796e"
+      },
+      "dob": {
+        "date": "1947-05-20T13:00:40.848Z",
+        "age": 77
+      },
+      "registered": {
+        "date": "2021-12-19T13:59:32.076Z",
+        "age": 2
+      },
+      "phone": "079 683 70 99",
+      "cell": "075 872 68 85",
+      "id": {
+        "name": "AVS",
+        "value": "756.0697.7584.54"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/1.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Amy",
+        "last": "Alexander"
+      },
+      "location": {
+        "street": {
+          "number": 9495,
+          "name": "Oaks Cross"
+        },
+        "city": "Gloucester",
+        "state": "Clwyd",
+        "country": "United Kingdom",
+        "postcode": "Z5G 2UF",
+        "coordinates": {
+          "latitude": "-73.1929",
+          "longitude": "147.6273"
+        },
+        "timezone": {
+          "offset": "+5:45",
+          "description": "Kathmandu"
+        }
+      },
+      "email": "amy.alexander@example.com",
+      "login": {
+        "uuid": "f0dc4add-80af-4cb9-a787-78108cf852f3",
+        "username": "yellowsnake117",
+        "password": "smiths",
+        "salt": "msJ3Sy4N",
+        "md5": "e54bf0b106b542402213a10322230fe9",
+        "sha1": "a50703c6452b1e64f3e826e0b2cc2aaba288d042",
+        "sha256": "630dc623dd1634cf03940c9132cbac34dc0f74fe2dbae3eb608b7e2fd8914fd2"
+      },
+      "dob": {
+        "date": "1975-12-01T15:01:55.726Z",
+        "age": 48
+      },
+      "registered": {
+        "date": "2020-11-27T08:08:00.102Z",
+        "age": 3
+      },
+      "phone": "015242 00745",
+      "cell": "07373 651395",
+      "id": {
+        "name": "NINO",
+        "value": "TH 12 06 85 R"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/37.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Pedro",
+        "last": "Ram\u00edrez"
+      },
+      "location": {
+        "street": {
+          "number": 9622,
+          "name": "Calle de Arturo Soria"
+        },
+        "city": "M\u00e9rida",
+        "state": "Galicia",
+        "country": "Spain",
+        "postcode": 59974,
+        "coordinates": {
+          "latitude": "-35.8402",
+          "longitude": "23.9661"
+        },
+        "timezone": {
+          "offset": "-7:00",
+          "description": "Mountain Time (US & Canada)"
+        }
+      },
+      "email": "pedro.ramirez@example.com",
+      "login": {
+        "uuid": "eb6eadfd-08e6-46c9-85f1-7adfc0ba46f6",
+        "username": "greenzebra205",
+        "password": "firefire",
+        "salt": "CDuUrmTe",
+        "md5": "3e19704a13c2c034883f190519907a53",
+        "sha1": "10fd3759a962568aeb8c048f02b9d46f2fa03db0",
+        "sha256": "17a11cbb2800d0b19e0d67dbf2da7ed81cc3381b67edca39a17ee734725f5acb"
+      },
+      "dob": {
+        "date": "1970-01-13T13:33:04.777Z",
+        "age": 54
+      },
+      "registered": {
+        "date": "2006-09-03T02:34:11.936Z",
+        "age": 17
+      },
+      "phone": "954-416-953",
+      "cell": "611-903-131",
+      "id": {
+        "name": "DNI",
+        "value": "73637742-T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/6.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Peyton",
+        "last": "Green"
+      },
+      "location": {
+        "street": {
+          "number": 4943,
+          "name": "Tweed Street"
+        },
+        "city": "Napier",
+        "state": "Auckland",
+        "country": "New Zealand",
+        "postcode": 36141,
+        "coordinates": {
+          "latitude": "16.8767",
+          "longitude": "-98.8051"
+        },
+        "timezone": {
+          "offset": "-12:00",
+          "description": "Eniwetok, Kwajalein"
+        }
+      },
+      "email": "peyton.green@example.com",
+      "login": {
+        "uuid": "d9dd9447-128a-40f4-8c86-310c795ba9b1",
+        "username": "orangeduck925",
+        "password": "softail",
+        "salt": "dRCnzBOb",
+        "md5": "7f3767994f06960c3fe7ea6bc4757973",
+        "sha1": "5c069a791f7b714af99bc43f70ad5bbb2ee85fce",
+        "sha256": "b1bb2f57a05b82b3aee917886e02b1d675213cd1412f88c300e0ed806e82c513"
+      },
+      "dob": {
+        "date": "1981-03-29T07:00:26.285Z",
+        "age": 43
+      },
+      "registered": {
+        "date": "2013-05-14T04:25:03.912Z",
+        "age": 11
+      },
+      "phone": "(557)-292-7996",
+      "cell": "(902)-075-6376",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/3.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+      },
+      "nat": "NZ"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Matija",
+        "last": "Rajkovi\u0107"
+      },
+      "location": {
+        "street": {
+          "number": 9856,
+          "name": "Jovana Valente "
+        },
+        "city": "Kovin",
+        "state": "North Ba\u010dka",
+        "country": "Serbia",
+        "postcode": 14640,
+        "coordinates": {
+          "latitude": "77.7311",
+          "longitude": "-122.0428"
+        },
+        "timezone": {
+          "offset": "+4:00",
+          "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+        }
+      },
+      "email": "matija.rajkovic@example.com",
+      "login": {
+        "uuid": "910f7a3f-b914-4d1f-b89d-e3a27e32ea50",
+        "username": "organicsnake330",
+        "password": "kiki",
+        "salt": "SKv6sU1D",
+        "md5": "52fc13f9b769e2a17aa4f0644bb72fda",
+        "sha1": "65a923d8f56206214ffa4f0fdeced0194ea8ce47",
+        "sha256": "4bc751053e689299a506954aed08619839f02d3a26d3f92dd970e4122dcbd81f"
+      },
+      "dob": {
+        "date": "1992-07-06T18:45:52.063Z",
+        "age": 31
+      },
+      "registered": {
+        "date": "2003-05-24T02:18:23.742Z",
+        "age": 21
+      },
+      "phone": "017-6366-904",
+      "cell": "068-4863-084",
+      "id": {
+        "name": "SID",
+        "value": "991198623"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/18.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+      },
+      "nat": "RS"
+    }
+  ],
+  "info": {
+    "seed": "8d46382f124c231e",
+    "results": 5,
+    "page": 1,
+    "version": "1.4"
+  }
+}
